@@ -38,35 +38,5 @@ $ python manage.py runserver
 ⚡️ Trending movies and songs will be emailed to the user specified email id for their record so that the user can play or watch the movies or songs in their free time.
 
 
-## Contributing 💡
-
-
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-
-
-## Team ✨
-
-| <a href="https://rajaprerak.github.io" target="_blank">**Prerak Raja**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Varad Bhogayata**</a> | <a href="https://aayuvraj.github.io" target="_blank">**Aayush Shah**</a> |
-| :---: |:---:|:---:|
-| [![Prerak Raja](https://github.com/rajaprerak.png?size=100)](https://rajaprerak.github.io)    | [![Varad Bhogayata](https://github.com/varadbhogayata.png?size=100)](https://varadbhogayata.github.io) |[![Aayush Shah](https://github.com/aayuvraj.png?size=100)](https://aayuvraj.github.io)|
-| <a href="https://github.com/rajaprerak" target="_blank">`github.com/rajaprerak`</a> | <a href="https://github.com/varadbhogayata" target="_blank">`github.com/varadbhogayata`</a> | <a href="https://github.com/aayuvraj" target="_blank">`github.com/aayuvraj`</a> 
-
-
 ## License
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
